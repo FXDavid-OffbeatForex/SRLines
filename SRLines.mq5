@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                                      SRLines.mq5 |
 //|                                                   Antigravity AI  |
-//|                               https://github.com/google-deepmind |
+//|               https://github.com/FXDavid-OffbeatForex/SRLines   |
 //+------------------------------------------------------------------+
 //
 //  VERSION: 4.1
@@ -46,7 +46,7 @@
 //
 //+------------------------------------------------------------------+
 #property copyright "Antigravity AI"
-#property link      "https://github.com/google-deepmind"
+#property link      "https://github.com/FXDavid-OffbeatForex/SRLines"
 #property version   "4.10"
 #property indicator_chart_window
 #property indicator_buffers 1
